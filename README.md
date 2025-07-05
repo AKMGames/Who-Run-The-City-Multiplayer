@@ -17,8 +17,11 @@
 ### The game contains 5 different mods:
 
 **- Steal The Money Bag** ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/extras/Money_Bag_Icon.png?t=1676054855)
+
 **- Collect Weed** ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/extras/Box_Icon.png?t=1676054855)
+
 **- Sell Weed** ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/extras/Weed_Icon.png?t=1676054855)
+
 **- Take Control Of The Zone (Turf)**
 **- Make A Street War And Win It**
 **- Up to 12 players**
