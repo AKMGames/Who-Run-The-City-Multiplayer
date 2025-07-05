@@ -8,6 +8,8 @@
 [Steam Page](https://store.steampowered.com/app/1943060/Who_Run_The_City_Multiplayer/)  
 [Game's Trailer](https://www.youtube.com/watch?v=q1y4GBcETPo)
 
+![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_ae6813446d54f89e6a45dcfda2a0530dfbfbb640.600x338.jpg?t=1676054855)
+
 **Play with your friends as gangsters and complete your missions** ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/extras/Gang_Icon00.png?t=1676054855)
 
 **Play with your friends as police and stop the gangsters from doing illegal stuff** ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/extras/Police_Icon00.png?t=1676054855)
@@ -29,7 +31,7 @@
 
 # Screenshots
 ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_d1806a7061fb7e2387174f2005539c5143bf6398.600x338.jpg?t=1676054855)
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_ae6813446d54f89e6a45dcfda2a0530dfbfbb640.600x338.jpg?t=1676054855)
+![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_76867b20d061f96741ca84c2780705cf12f7b727.600x338.jpg?t=1676054855)
 ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_90059183c7fe47832af7aa7c0e71ee66a569ba76.600x338.jpg?t=1676054855)
 ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_ae6813446d54f89e6a45dcfda2a0530dfbfbb640.600x338.jpg?t=1676054855)
 ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_f4e5fcc5ac0903ec2d99f5c2058fc87a29a78d26.600x338.jpg?t=1676054855)
