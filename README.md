@@ -5,7 +5,7 @@
 
 **Who Run The City** is a Third-Person Multiplayer funny game where gangsters are doing illegal stuff (stealing money, selling drugs ...) and the police have to stop them.
 
-[Steam Page](https://store.steampowered.com/app/1943060/Who_Run_The_City_Multiplayer/)
+[Steam Page](https://store.steampowered.com/app/1943060/Who_Run_The_City_Multiplayer/)  
 [Game's Trailer](https://www.youtube.com/watch?v=q1y4GBcETPo)
 
 **Play with your friends as gangsters and complete your missions** ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/extras/Gang_Icon00.png?t=1676054855)
