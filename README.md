@@ -28,4 +28,4 @@
 
 
 # Screenshots
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256883201/movie.184x123.jpg?t=1650520123)
+![](https://video.akamai.steamstatic.com/store_trailers/256883201/movie480_vp9.webm?t=1650520123)
