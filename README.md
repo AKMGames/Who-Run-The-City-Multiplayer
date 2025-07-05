@@ -22,8 +22,8 @@
 
 **- Sell Weed** ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/extras/Weed_Icon.png?t=1676054855)
 
-**- Take Control Of The Zone (Turf)**
-**- Make A Street War And Win It**
-**- Up to 12 players**
-**- 1 Map for now (working on other maps)**
-**- Server list**
+**- Take Control Of The Zone (Turf)** 
+**- Make A Street War And Win It** 
+**- Up to 12 players** 
+**- 1 Map for now (working on other maps)** 
+**- Server list** 
