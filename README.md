@@ -28,4 +28,10 @@
 
 
 # Screenshots
-![](https://video.akamai.steamstatic.com/store_trailers/256883201/movie480_vp9.webm?t=1650520123)
+![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_d1806a7061fb7e2387174f2005539c5143bf6398.600x338.jpg?t=1676054855)
+![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_ae6813446d54f89e6a45dcfda2a0530dfbfbb640.600x338.jpg?t=1676054855)
+![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_90059183c7fe47832af7aa7c0e71ee66a569ba76.600x338.jpg?t=1676054855)
+![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_ae6813446d54f89e6a45dcfda2a0530dfbfbb640.600x338.jpg?t=1676054855)
+![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_f4e5fcc5ac0903ec2d99f5c2058fc87a29a78d26.600x338.jpg?t=1676054855)
+![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943060/ss_6b6993b402f442c73522a0ffc155bcb041587f38.600x338.jpg?t=1676054855)
+
